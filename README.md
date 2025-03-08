@@ -8,11 +8,11 @@
 -  Looking to collaborate on      Open source Projects
 -  How to reach me      https://www.linkedin.com/in/zubairahmed90/
 
-🔭 I’m currently working on YOLOv8-based multi-camera surveillance system.
+🔭 I’m currently working on YOLO-based multi-camera surveillance system.
 
 🌱 I’m learning more about deep learning, cloud computing (AWS EC2, S3, Lambda), and scalable backend architectures.
 
-💬 Ask me about Python, OpenCV, YOLO, MERN stack, and cloud solutions.
+💬 Having knowledge about Python, OpenCV, YOLO, MERN stack, and Cloud solutions.
 
 📫 Mail me at: zubairahmedkaimkhani@gmail.com
 
