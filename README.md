@@ -35,7 +35,7 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 
 ![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/-00FFFF?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/-00FFFF?style=for-the-badge&logo=codeforces&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -48,5 +48,7 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 ![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
 
