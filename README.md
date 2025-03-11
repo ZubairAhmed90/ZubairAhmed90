@@ -1,6 +1,7 @@
 <img width="1834" alt="Make your README" src="cover (1).png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=IE+FUUAST+|+Software+Developer;GI+AI+Meta+Student;Certified+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=IE+FUUAST+|+Software+Developer;Full+Stack+Developer;Data+Analytics;Certified+Web+Developer)](https://git.io/typing-svg)
+
 
 
 -  Welcome  I’m Zubair Ahmed  
