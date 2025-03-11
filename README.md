@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=60&lines=🚀+Welcome+to+My+GitHub+Profile!;I'm+Zubair+Ahmed+👋)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=IE+FUUAST+|+Software+Developer;Full+Stack+Developer;Data+Analytics;Certified+Web+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=IE+FUUAST+|+Software+Developer;Full+Stack+Developer;Data+Analytics;Certified+Web+Developer)](https://git.io/typing-svg)
 
 
 
