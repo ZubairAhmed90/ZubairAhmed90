@@ -39,22 +39,23 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 
 ## 🚀 **Tech Stack & Tools:**
 
-![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/-00FFFF?style=for-the-badge&logo=codeforces&logoColor=black)
-![Node.js](https://img.shields.io/badge/-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![.NET](https://img.shields.io/badge/-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="48" height="48"/>
+<img src="https://img.icons8.com/fluency/48/000000/code.png" alt="YOLO"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/nextjs.png" alt="Next.js"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
+
 
 
 
