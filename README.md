@@ -40,6 +40,8 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 
 ## 🚀 **Tech Stack & Tools:**
 
+## 🚀 **Tech Stack & Tools:**
+
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="48" height="48"/>
@@ -57,4 +59,6 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48"/>
 </p>
+
