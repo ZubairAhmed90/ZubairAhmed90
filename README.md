@@ -46,10 +46,10 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="YOLO"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/nextjs.png" alt="Next.js"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
