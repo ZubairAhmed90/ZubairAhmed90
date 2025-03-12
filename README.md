@@ -38,9 +38,6 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 
 ---
 
-## 🚀 **Tech Stack & Tools:**
-
-## 🚀 **Tech Stack & Tools:**
 
 ## 🚀 **Tech Stack & Tools:**
 
