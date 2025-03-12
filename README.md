@@ -42,6 +42,8 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 
 ## 🚀 **Tech Stack & Tools:**
 
+## 🚀 **Tech Stack & Tools:**
+
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="48" height="48"/>
@@ -51,7 +53,7 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET MVC" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -61,4 +63,5 @@ I'm eager to leverage my diverse skillset and contribute to innovative projects 
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48"/>
 </p>
+
 
