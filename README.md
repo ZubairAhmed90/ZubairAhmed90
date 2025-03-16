@@ -33,7 +33,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
 <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
-<img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma"/>
+
 </p>
 
 ---
