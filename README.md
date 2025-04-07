@@ -38,16 +38,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zubairahmed90&theme=radical&border_radius=5)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubairahmed90&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairahmed90&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 📫 **Contact Me**
 - 💼 **LinkedIn:** [Zubair Ahmed](https://www.linkedin.com/in/zubairahmed90/)  
