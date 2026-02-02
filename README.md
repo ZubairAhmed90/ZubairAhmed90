@@ -3,21 +3,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=🚀+Welcome+to+My+GitHub+Profile!;I'm+Zubair+Ahmed+👋)](https://git.io/typing-svg)
 
 </div>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;MongoDB+|+Express+|+React+|+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Custom+Business+Software+&+SaaS+Developer;Web+&+PWA+Applications)](https://git.io/typing-svg)
 
 </div>
 
 ### 👋 About Me
 - 🚀 **Welcome** – I’m Zubair Ahmed  
-- 💻 **Expertise** – Full-Stack Developer (MERN)  
-- 🌱 **Currently learning** – Advanced React, Next.js, and Node.js  
-- 🤝 **Looking to collaborate on** – Open-source MERN projects  
+- 💻 **Expertise** – Custom Business Software & SaaS Developer  
+- 🌱 **Currently learning** – Scalable SaaS architectures, cloud deployment, and advanced PWA features  
+- 🤝 **Looking to collaborate on** – Business automation, SaaS products, dashboards, and custom web applications  
 - 📫 **How to reach me** – [LinkedIn](https://www.linkedin.com/in/zubairahmed90/)  
 
-🔭 I’m currently building a multi-camera surveillance system with YOLO and MERN stack.  
-🌱 I'm expanding my skills in scalable backend architectures and cloud-based deployment.  
+🔭 I’m currently building scalable SaaS systems and business applications that match real-world workflows.  
+🌱 I focus on end-to-end solutions with MERN stack, PWA support, and cloud-ready deployment.  
 
 ---
 
@@ -33,11 +34,12 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
 <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
-
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+<img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/>
+<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
 </p>
 
 ---
-
 
 ## 📫 **Contact Me**
 - 💼 **LinkedIn:** [Zubair Ahmed](https://www.linkedin.com/in/zubairahmed90/)  
@@ -45,4 +47,4 @@
 
 ---
 
-Let's build something great together! 😎
+Let's Build Something Scalable! 😎
