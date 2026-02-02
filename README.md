@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Custom+Business+Software+&+SaaS+Developer;Web+&+PWA+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Custom+Business+Software+&+SaaS+Developer;Web+&+PWA+Applications;MERN+Stack+|+Cloud+Deployment)](https://git.io/typing-svg)
 
 </div>
 
